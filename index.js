@@ -166,7 +166,7 @@ $(`#score`).html(`${score}`);
 //delcaring the interval globally so I can access it from other methods
 var interval;
 var timer = function () {
-  var roundTime = 30;
+  var roundTime = 45;
   interval = setInterval(function () {
     $("#counter").html(`${roundTime} seconds remaining`);
     roundTime = roundTime - 1;

@@ -134,6 +134,7 @@ body {
   animation: answerLights 3s ease infinite;
   -moz-animation: answerLights 3s ease infinite;
   -webkit-animation: answerLights 3s ease infinite;
+  cursor: pointer;
 }
 
 @keyframes answerLights {
@@ -231,6 +232,7 @@ body {
   animation: sendLights 1s ease infinite;
   -moz-animation: sendLights 1s ease infinite;
   -webkit-animation: sendLights 1.5s ease infinite;
+  padding: 5px;
 }
 
 @keyframes sendLights {

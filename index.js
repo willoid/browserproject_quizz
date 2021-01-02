@@ -65,7 +65,7 @@ const questions = [
     wrongAnswer3: "My rude and ignorant western manners.",
   },
   {
-    question: "who will never be disappointed on you.",
+    question: "who will be never disappointed on you.",
     rightAnswer: "Food. Be careful my child.",
     wrongAnswer1: "Jeff Bezos. Be careful my child.",
     wrongAnswer2: "Santa Claus. Be careful my child.",
@@ -142,7 +142,7 @@ const questions = [
     wrongAnswer3: "Telling them I have a date and the pizza is for the hunger after sex.",
   },
   {
-    question: "who will always be better than you?",
+    question: "who will be always better than you?",
     rightAnswer: "My future self if I stop fucking everything up.",
     wrongAnswer1: "Danish people.",
     wrongAnswer2: "Tesla drivers.",

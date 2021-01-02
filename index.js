@@ -109,9 +109,9 @@ const questions = [
   {
     question: "what did we learn from Bridget Jones's Diary?",
     rightAnswer: "Loosing 97 minutes of our life can be easy.",
-    wrongAnswer1: "Choose someone who loves me for who I am.",
+    wrongAnswer1: "To choose someone who loves us for who we are.",
     wrongAnswer2: "Nice people are better than good looking people.",
-    wrongAnswer3: "Don't leave the diary open when I have someone over.",
+    wrongAnswer3: "To not leave our diary open when we have someone over.",
   },
   {
     question: "why are your house plants dying?",

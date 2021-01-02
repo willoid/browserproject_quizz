@@ -233,6 +233,7 @@ body {
   -moz-animation: sendLights 1s ease infinite;
   -webkit-animation: sendLights 1.5s ease infinite;
   padding: 5px;
+  cursor: pointer;
 }
 
 @keyframes sendLights {

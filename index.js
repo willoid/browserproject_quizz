@@ -82,7 +82,7 @@ const questions = [
     question: "what is the real taste of victory?",
     rightAnswer: "Sweet like bringing a winner like Willoid into the team.",
     wrongAnswer1: "Salty like tears and sweat.",
-    wrongAnswer2: "Bitter like the harsh realty.",
+    wrongAnswer2: "Bitter like the harsh reality.",
     wrongAnswer3: "Sour like adversity.",
   },
   {

@@ -268,7 +268,7 @@ function submit() {
     $(`#right`).css("visibility", "visible");
     //incrementing the score
     score++;
-    $(`#score`).html(`${score}`);
+    $(`#score`).html(`${score} `);
   } else {
     $(`#wrong`).css("visibility", "visible");
   }

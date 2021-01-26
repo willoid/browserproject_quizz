@@ -128,11 +128,11 @@ const questions = [
     wrongAnswer3: "Try Willoid's hummus without garlic.",
   },
   {
-    question: "how many times are we allowed to make the same mistake.",
-    rightAnswer: "I shall look at my siblings and ask my parents.",
-    wrongAnswer1: "Three.",
-    wrongAnswer2: "Twlce but I can order pizza with gorgonzola cheese thrice.",
-    wrongAnswer3: "Four in general and five if it's allowing toxic people into my life.",
+    question: "Do cis people have problems?",
+    rightAnswer: "LOL WTF.",
+    wrongAnswer1: "Everyone has problems.",
+    wrongAnswer2: "They have an easy life.",
+    wrongAnswer3: "Not always.",
   },
   {
     question: "how can you let the pizza delivery guy know that you are not a looser eating her/his feelings alone?",
@@ -143,9 +143,9 @@ const questions = [
   },
   {
     question: "who will be always better than you?",
-    rightAnswer: "My future self if I stop fucking everything up.",
+    rightAnswer: "My future self.",
     wrongAnswer1: "Danish people.",
-    wrongAnswer2: "Tesla drivers.",
+    wrongAnswer2: "Organic Food buyers.",
     wrongAnswer3: "The better version of myself in a parallel universe.",
   },
   {
